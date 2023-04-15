@@ -1,6 +1,6 @@
 This is html/css/js admin-panel but it doesen't work yet well for example you can't add or remove because it isn't connected with any database.
 
-But you can go look it at [saow.github.io/admin-panel/](https://saow.github.io/admin-panel/)
+But you can go look it on [saow.github.io/admin-panel/](https://saow.github.io/admin-panel/)
 
 ## Screenshots
 [![image.png](https://i.postimg.cc/CL19Mtrv/image.png)](https://postimg.cc/NL3dpNcT)
